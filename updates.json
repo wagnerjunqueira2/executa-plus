@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "wag@wag.local": {
+      "updates": [
+        {
+          "version": "1.13.1",
+          "update_link": "https://raw.githubusercontent.com/wagnerjunqueira2/executa-plus/main/executa_plus-1.13.1.xpi"
+        }
+      ]
+    }
+  }
+}
