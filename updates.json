@@ -3,8 +3,8 @@
     "wag@wag.local": {
       "updates": [
         {
-          "version": "1.18.0",
-          "update_link": "https://raw.githubusercontent.com/wagnerjunqueira2/executa-plus/main/Executa_plus-1.18.0.xpi"
+          "version": "1.18.1",
+          "update_link": "https://raw.githubusercontent.com/wagnerjunqueira2/executa-plus/main/Executa_plus-1.18.1.xpi"
         }
       ]
     }
